@@ -1,0 +1,1 @@
+﻿This project is for Managers/Shared business logic

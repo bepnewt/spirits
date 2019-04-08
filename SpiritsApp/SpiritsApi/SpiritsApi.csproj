@@ -11,4 +11,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SpiritsApp.Data\SpiritsApp.Data.csproj" />
+    <ProjectReference Include="..\SpiritsApp.Domain\SpiritsApp.Domain.csproj" />
+    <ProjectReference Include="..\SpiritsApp.Model\SpiritsApp.Model.csproj" />
+    <ProjectReference Include="..\SpiritsApp.Shared\SpiritsApp.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
