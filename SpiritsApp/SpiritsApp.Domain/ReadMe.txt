@@ -1,0 +1,1 @@
+﻿This project is for DTOs, shared Interfaces, Enums, etc.

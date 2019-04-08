@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpiritsApp.Data\SpiritsApp.Data.csproj" />
+    <ProjectReference Include="..\SpiritsApp.Model\SpiritsApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>
