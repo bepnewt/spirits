@@ -5,13 +5,15 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiritsApi", "SpiritsApi\SpiritsApi.csproj", "{388C1BE6-2DBC-4F1B-953F-FDE64E6805CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritsApp.Domain", "SpiritsApp.Domain\SpiritsApp.Domain.csproj", "{21E459B4-7A9B-40A9-BF8D-95F410C53044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiritsApp.Domain", "SpiritsApp.Domain\SpiritsApp.Domain.csproj", "{21E459B4-7A9B-40A9-BF8D-95F410C53044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritsApp.Data", "SpiritsApp.Data\SpiritsApp.Data.csproj", "{043F9E17-1B9C-4C59-8D53-1D78648CCCB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiritsApp.Data", "SpiritsApp.Data\SpiritsApp.Data.csproj", "{043F9E17-1B9C-4C59-8D53-1D78648CCCB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritsApp.Shared", "SpiritsApp.Shared\SpiritsApp.Shared.csproj", "{979A320E-81E6-44AB-86E5-B2F41A2E8EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiritsApp.Shared", "SpiritsApp.Shared\SpiritsApp.Shared.csproj", "{979A320E-81E6-44AB-86E5-B2F41A2E8EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritsApp.Model", "SpiritsApp.Model\SpiritsApp.Model.csproj", "{1A799BA2-1C34-4D35-A4A0-3A249D472290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiritsApp.Model", "SpiritsApp.Model\SpiritsApp.Model.csproj", "{1A799BA2-1C34-4D35-A4A0-3A249D472290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPlaceholder", "WebPlaceholder\WebPlaceholder.csproj", "{43276CDC-B7EE-40CD-8A44-A6DAB9A0AD8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1A799BA2-1C34-4D35-A4A0-3A249D472290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A799BA2-1C34-4D35-A4A0-3A249D472290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A799BA2-1C34-4D35-A4A0-3A249D472290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43276CDC-B7EE-40CD-8A44-A6DAB9A0AD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43276CDC-B7EE-40CD-8A44-A6DAB9A0AD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43276CDC-B7EE-40CD-8A44-A6DAB9A0AD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43276CDC-B7EE-40CD-8A44-A6DAB9A0AD8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
